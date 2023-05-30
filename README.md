@@ -1,6 +1,7 @@
-![Header](https://github.com/NikitaKeith/NikitaKeith/blob/main/assets/1.jpg?raw=true)
-
 About me
+
+I am a beginner java developer
+
 
 Languages and Tools
 
