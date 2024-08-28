@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Nikita</h1>
-<h3 align="center">I am a beginner PLC and java developer</h3>
-
-- 🌱 I’m currently learning **PLC Programming (Siemens and Beckhoff)**
+<h3 align="center">I am a beginner Java developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
